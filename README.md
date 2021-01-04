@@ -4,7 +4,7 @@ This a **Flask** web app to predict the handwritten digits using a Deep Convolut
 
 Live demo : 
 
-![demo gif]( )
+![demo gif](/assests/captured.gif)
 
 ### Test the app locally
 
